@@ -1,0 +1,25 @@
+
+
+body {
+    background-image: linear-gradient(to right, black, white);
+  }
+  .sectiontwo {
+    background: linear-gradient(170deg, black, teal);
+  }
+  img {
+    height: 25%;
+    width: 10%;
+  }
+  
+  
+  #inputConver {
+      width: 100%;
+      border: none;
+      background: transparent;
+      border-bottom: 2px solid royalblue;
+  }
+  i {
+    cursor: pointer;
+  }
+
+

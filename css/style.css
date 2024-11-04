@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to right,black,white);
+}
+img{
+    height: 25%;
+    width: 10%;
+}
+.father{
+    background-color: rgb(3, 39, 3);
+}
